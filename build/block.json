@@ -1,11 +1,11 @@
 {
   "$schema": "https://schemas.wp.org/trunk/block.json",
   "apiVersion": 2,
-  "name": "create-block/msodpp-block",
+  "name": "embeds-cdj/msodpp-block",
   "version": "0.1.0",
-  "title": "Msodpp Block",
-  "category": "widgets",
-  "icon": "smiley",
+  "title": "Microsoft OneDrive PowerPoint Embed Block",
+  "category": "embed",
+  "icon": "interactive",
   "description": "Example block scaffolded with Create Block tool.",
   "supports": {
     "html": false

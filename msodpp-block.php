@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Msodpp Block
+ * Plugin Name:       MSODPP Block
  * Description:       Example block scaffolded with Create Block tool.
  * Requires at least: 6.1
  * Requires PHP:      7.0
@@ -10,7 +10,7 @@
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       msodpp-block
  *
- * @package           create-block
+ * @package           embeds-cdj
  */
 
 /**
